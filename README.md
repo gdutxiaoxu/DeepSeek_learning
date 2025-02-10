@@ -2,6 +2,12 @@
 
 嗨喽，欢迎大家来到 DeepSeek 的交流社区，这里主要分享 DeepSeek 的使用教程和DeepSeek的学习资料，会不定期更新，感兴趣的可以收藏哦
 
+## DeepSeek 入门&实战教程
+
+[DeepSeek使用教程，9个技巧让AI助手变身超级英雄（建议收藏，持续更新）](https://xujun.blog.csdn.net/article/details/145551926)
+
+[清华大学最新力作：《DeepSeek》从入门到精通，深度学习与元宇宙全面解读](https://mp.weixin.qq.com/s/j6uWUEzutmiv-iwOqyZ99A)
+
 ## Deepseek 资料学习教程
 
 https://pan.quark.cn/s/2d14c9208bc1
