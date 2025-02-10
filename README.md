@@ -1,5 +1,6 @@
 # DeepSeek_learning
-这里主要分享 DeepSeek 的使用教程和DeepSeek的学习资料
+
+嗨喽，欢迎大家来到 DeepSeek 的交流社区，这里主要分享 DeepSeek 的使用教程和DeepSeek的学习资料，会不定期更新，感兴趣的可以收藏哦
 
 ## Deepseek 资料学习教程
 
@@ -15,7 +16,7 @@ https://pan.quark.cn/s/2d14c9208bc1
 
 https://t.zsxq.com/VRuii
 
-![img](https://ndfetdb13m.feishu.cn/space/api/box/stream/download/asynccode/?code=MWI2MTZkMmNkZDVlNDFkMDUwNzljY2VkNDM3NzIzMzVfalpQZUFrTHRHN3V6MmZQVk1LMzlpSjhTNW5oUm01dkJfVG9rZW46Q0dDNWJSNTFrb0lUcVp4aEY1NmNmZUNXbnZkXzE3MzkxNjM0MTg6MTczOTE2NzAxOF9WNA)
+
 
 ## Deepseek 曲线救国平替
 
